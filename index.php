@@ -4,6 +4,8 @@
 $nome = "João";
 $idade = 25;
 
+
+// \n é um caractere de nova linha.
 // Exibir dados
 echo "Olá, $nome!\n";
 echo "Você tem $idade anos.\n\n";
